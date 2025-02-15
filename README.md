@@ -1,2 +1,2 @@
 # Golang
- This is a Repo where I showcase small projects using Golang
+Explored GoLang’s capabilities through performance-optimized applications.
